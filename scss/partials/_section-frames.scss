@@ -1,0 +1,94 @@
+
+
+.section-frames{
+    text-align: center;
+    background-color: $yellow;
+    padding-top: 10rem;
+    padding-bottom: 7rem;
+    h2{
+        margin-bottom: 3rem;
+    }
+    iframe{
+        margin-bottom: 3rem;
+    }
+}
+
+
+footer{
+    background-color: $yellow;
+    border-top: 1px solid black;
+    padding-top: 1rem;
+    padding-bottom: 5px;
+}
+
+
+
+@media(min-width: 0px){
+
+    .section-frames{
+        h2{
+
+        }
+        iframe{
+            max-width: 30rem;
+            max-height: 40rem;
+        }
+    }
+
+}
+
+@media(min-width: 576px){
+
+    .section-frames{
+        h2{
+
+        }
+        iframe{
+            max-width: 40rem;
+            max-height: 50rem;
+        }
+    }
+
+}
+
+@media(min-width: 768px){
+
+    .section-frames{
+        h2{
+
+        }
+        iframe{
+            max-width: 30rem;
+            max-height: 40rem;
+        }
+    }
+
+}
+
+@media(min-width: 992px){
+
+    .section-frames{
+        h2{
+
+        }
+        iframe{
+            max-width: 40rem;
+            max-height: 50rem;
+        }
+    }
+
+}
+
+@media(min-width: 1200px){
+
+    .section-frames{
+        h2{
+
+        }
+        iframe{
+            max-width: 50rem;
+            max-height: 50rem;
+        }
+    }
+
+}

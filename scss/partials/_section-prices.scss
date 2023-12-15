@@ -1,0 +1,17 @@
+
+
+.section-prices{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    background-color: $yellow;
+    text-align: center;
+    h2{
+        margin-bottom: 5rem;
+    }
+    div{
+        table{
+            color: $cyan;
+            font-family: $text-font
+        }
+    }
+}

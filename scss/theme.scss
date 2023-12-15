@@ -1,0 +1,19 @@
+
+@import "partials/_overide-bootstrap.scss";
+@import "../bootstrap/scss/bootstrap.scss";
+
+
+
+// custom theme partials
+@import "partials/_animations.scss";
+@import "partials/_fonts.scss";
+@import "partials/_general.scss";
+
+
+@import "partials/_header.scss";
+@import "partials/_section-products.scss";
+@import "partials/_section-services.scss";
+@import "partials/_section-prices.scss";
+@import "partials/_section-contact.scss";
+@import "partials/_section-frames.scss";
+@import "partials/_productspage.scss";

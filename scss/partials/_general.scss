@@ -1,0 +1,57 @@
+
+img{
+    max-width: 100%;
+}
+
+html{
+    font-size: 10px;
+    // 1 rem
+}
+
+html p{
+    font-family: $text-font !important;
+}
+
+html h1{
+    font-family: $heading-font !important;
+}
+
+html h2{
+    font-family: $heading-font !important;
+}
+
+html h3{
+    font-family: $heading-font !important;
+}
+
+html h4{
+    font-family: $heading-font !important;
+}
+
+a.btn-call{
+    text-decoration: none;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: $blue;
+    background-color: $yellow;
+    border-radius: 2rem;
+    font-family: $heading-font;
+    box-shadow: 0px 0px 3rem $yellow;
+    &:hover {
+        color: $yellow;
+        background-color: $blue;
+    }
+}
+
+#background-fixed{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 10rem;
+}
+
+

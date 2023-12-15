@@ -1,0 +1,32 @@
+
+.products-h1{
+    padding-top: 7rem;
+}
+
+.product-section-separacija{
+    div.container{
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+        border-radius: 20px;
+    }
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.product-section-materijal{
+    padding-bottom: 10rem;
+    div.container{
+        div.row{
+            h3{
+                margin-bottom: 5rem;
+            }
+            article{
+                border: 1px solid black;
+                padding: 20px;
+            }
+        }
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+        border-radius: 20px;
+    }
+}
