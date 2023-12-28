@@ -66,7 +66,7 @@
                         </tr>
 
                         <tr>
-                            <td class="date">08.08.2022.</td>
+                            <td class="date">06.12.2022.</td>
                             <td><b>Radjeno</b></td>
                             <td><b>Radjeno</b></td>
                             <td>X</td>

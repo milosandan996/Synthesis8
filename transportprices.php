@@ -975,6 +975,14 @@
                             <td class="price">12.000</td>
                             <td><a></a></td>
                         </tr>
+                        <tr>
+                            <td >118</td>
+                            <td class="name">ALUMINUM SISTEM(LEŠTANE)</td>
+                            <td class="material">5Š</td>
+                            <td class="truck">ATEGO</td>
+                            <td class="price">7.000</td>
+                            <td><a></a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>

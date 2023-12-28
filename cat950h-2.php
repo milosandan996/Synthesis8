@@ -42,7 +42,84 @@
 
             <section class="section-table container">
                 <h1 class="text-center">CATERPILLAR 950H-2</h1>
+                
+                
+                <table border="1" class="table-responsive">
+                    <tbody>
+                        <tr>
+                            <th>DATUM</th>
+                            <th rowspan="2">FILTERI</th>
+                            <th>Filter ulja u motoru</th>
+                            <th>Filter goriva (glavni)</th>
+                            <th>Filter goriva (separator)</th>
+                            <th>Filter vazduha (veliki)</th>
+                            <th>Filter vazduha (mali)</th>
+                            <th>Filter sušača vazduha</th>
+                            <th>Filter kabine (klime)</th>
+                            <th>Filter upravljača</th>
+                            <th>Filter Hydro Drive sistema</th>
+                            <th>AD Blue-a</th>
+                            <th>Filter hidraulike (veliki)</th>
+                            <th>Filter hidraulike (mali)</th>
+                            <th>NAPOMENA</th>
+                        </tr>
 
+                        <tr>
+                            <td class="date">27.12.2023.</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td><b>Radjeno</b></td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>
+                                X
+                            </td>
+                        </tr>
+                    </tbody>
+
+                    <tbody>
+                        <tr>
+                            <th>SERVIS</th>
+                            <th rowspan="2">ULJA I TEČNOSTI</th>
+                            <th>Ulje u motoru</th>
+                            <th>Ulje u diferencijalima</th>
+                            <th>Ulje u menjaču</th>
+                            <th>Ulje u hidra uličnom sistemu</th>
+                            <th>Ulje u Hydro Drive sistemu</th>
+                            <th>Ulje u upravljaču</th>
+                            <th>Ulje u glavčinama</th>
+                            <th>Ulje za podizanje kabine</th>
+                            <th>Rashladna tečnost motora</th>
+                            <th>AD Blue</th>
+                            <th>Voda u akumula torima</th>
+                            <th>Kočiona tečnost</th>
+                            <th>NAPOMENA</th>
+                        </tr>
+                        <tr>
+                            <td class="hours">12930 RČ</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td><b>Radjeno</b></td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>X</td>
+                        </tr>
+                    </tbody>
+                </table>
+                
                 <table border="1" class="table-responsive">
                     <tbody>
                         <tr>
