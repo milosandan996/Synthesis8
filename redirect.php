@@ -120,6 +120,9 @@
                             <li>
                                 <a class="d-block" href="calculator.php">KALKULATOR</a>
                             </li>
+                            <li>
+                                <a class="d-block" href="lab.php">LABORATORIJA</a>
+                            </li>
                         </ul>
                     </li>
                     
