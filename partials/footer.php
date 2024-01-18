@@ -2,7 +2,7 @@
 <footer>
     <div class="container d-flex justify-content-between align-items-center">
         <a href="index.php">
-            <img src="images/headerlogo-yellow.jpg" width="70" height="70" alt="Slika nije ucitana"/>  
+            <img src="images/headerlogo-yellow.png" width="70" height="70" alt="Slika nije ucitana"/>  
         </a>
         <div>
             <p>Copyright © Synthesis D.O.O. – <?php echo date('Y') ?></p>
@@ -19,7 +19,7 @@ if ($curentpageuri == '/redirect.php' || $curentpageuri == '/actros1.php' ||
         $curentpageuri == '/komatsuwa380.php' || $curentpageuri == '/man.php' ||
         $curentpageuri == '/separacija1.php' || $curentpageuri == '/separacija2.php' ||
         $curentpageuri == '/transportprices.php' ||
-        $curentpageuri == '/catg2.php') {
+        $curentpageuri == '/catg2.php' || $curentpageuri == '/lab.php') {
     echo '<script src="../js/excavators.js" type="text/javascript"></script>';
 }
 ?>
