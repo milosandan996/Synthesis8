@@ -983,6 +983,30 @@
                             <td class="price">7.000</td>
                             <td><a></a></td>
                         </tr>
+                        <tr>
+                            <td >119</td>
+                            <td class="name">MATIĆ TEAM (KOSTE JOVANOVICA 2)</td>
+                            <td class="material">3M</td>
+                            <td class="truck">ATEGO</td>
+                            <td class="price">5.000</td>
+                            <td><a></a></td>
+                        </tr>
+                        <tr>
+                            <td >120</td>
+                            <td class="name">PPM SISTEM GRADNJA (SAZONOVA 64)</td>
+                            <td class="material">5F1</td>
+                            <td class="truck">ATEGO</td>
+                            <td class="price">5.000</td>
+                            <td><a href="tel:0646414265">0646414265</a></td>
+                        </tr>
+                        <tr>
+                            <td >121</td>
+                            <td class="name">BIGZ NET (KUMODRAŽ)</td>
+                            <td class="material">18P</td>
+                            <td class="truck">ACTROS 2</td>
+                            <td class="price">11.000</td>
+                            <td><a href="tel:0659771719">0659771719</a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
