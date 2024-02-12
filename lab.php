@@ -21,7 +21,7 @@
         <header>
             <div id="top" class="container">
                 <nav class="navbar navbar-expand-md navbar-dark">
-                    <a class="navbar-brand first-logo" href="index.php"><img src="../images/headerlogo-yellow.jpg" width="70" height="70" alt="Slika nije ucitana"/></a>
+                    <a class="navbar-brand first-logo" href="index.php"><img src="images/headerlogo-yellow.png" width="70" height="70" alt="Slika nije ucitana"/></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#main-nav" aria-controls="main-nav" 
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -194,6 +194,11 @@
                             <div class="col-12 col-md-6">
                                 <h2>Krnjaca</h2>
                                 <object data="labpdf/krnjaca02012024.pdf" type="application/pdf" width="100%" height="600px">
+                                    <p>It appears you don't have a PDF plugin for this browser.
+                                        No biggie... you can <a href="labpdf/krnjaca02012024.pdf">click here to download the PDF file.</a>
+                                    </p>
+                                </object>
+                                <object data="labpdf/krnjaca01022024.pdf" type="application/pdf" width="100%" height="600px">
                                     <p>It appears you don't have a PDF plugin for this browser.
                                         No biggie... you can <a href="labpdf/krnjaca02012024.pdf">click here to download the PDF file.</a>
                                     </p>

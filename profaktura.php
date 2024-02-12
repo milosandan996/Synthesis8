@@ -36,7 +36,7 @@
         <header>
             <div class="container">
                 <nav class="navbar  navbar-dark">
-                    <a class="navbar-brand first-logo" href="index.php"><img src="../images/headerlogo-yellow.jpg" width="70" height="70" alt="Slika nije ucitana"/></a>
+                    <a class="navbar-brand first-logo" href="index.php"><img src="images/headerlogo-yellow.png" width="70" height="70" alt="Slika nije ucitana"/></a>
                     <div class="text-center" id="main-nav">
                         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                             <li class="nav-item">

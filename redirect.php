@@ -22,7 +22,7 @@
         <header>
             <div id="top" class="container">
                 <nav class="navbar navbar-expand-md navbar-dark">
-                    <a class="navbar-brand first-logo" href="index.php"><img src="../images/headerlogo-yellow.jpg" width="70" height="70" alt="Slika nije ucitana"/></a>
+                    <a class="navbar-brand first-logo" href="index.php"><img src="images/headerlogo-yellow.png" width="70" height="70" alt="Slika nije ucitana"/></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#main-nav" aria-controls="main-nav" 
                             aria-expanded="false" aria-label="Toggle navigation">
